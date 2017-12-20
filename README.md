@@ -1,8 +1,6 @@
-# React Redux Boilerplate
+# React Fire example
 
-This helps get started with a react-redux project.
-
-It also compiles SCSS to CSS
+React with Firebase Login.
 
 To get the sample up and running, you need to do the following:-
   - Clone the repo
